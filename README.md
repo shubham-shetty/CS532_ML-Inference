@@ -1,4 +1,4 @@
-# Team 7
+# CS 532 Spring 21: Team 7
 
 * Team Members:
 	* Dhruv Agarwal (dagarwal@umass.edu)
