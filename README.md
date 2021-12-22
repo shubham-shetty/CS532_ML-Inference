@@ -1,5 +1,8 @@
-# CS 532 Spring 21: Team 7
+# ML Inference Server
 
+We build a simple image classification server using a pre-trained Densenet-121 model for Pytorch. The model is used for inference and is hosted on a backend Flask server built to handle HTTP requests, containerized in a Docker image.
+
+* Project description: https://docs.google.com/document/d/1TxfuBqIY-Xo_NO9u9Kn5sdrAghRIFOvxL36FzVHoCU0/
 * Team Members:
 	* Dhruv Agarwal (dagarwal@umass.edu)
 	* Shantam Shorewala (sshorewala@umass.edu)
